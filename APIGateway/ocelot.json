@@ -1,0 +1,30 @@
+{
+    "Routes": [
+      {
+        "DownstreamPathTemplate": "/api/user/{everything}",
+        "UpstreamPathTemplate": "/user/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "localhost",
+            "Port": 5001
+          }
+        ]
+      },
+      {
+        "DownstreamPathTemplate": "/api/post/{everything}",
+        "UpstreamPathTemplate": "/post/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "localhost",
+            "Port": 5002
+          }
+        ]
+      }
+    ],
+    "GlobalConfiguration": {
+      "BaseUrl": "http://localhost:5000"
+    }
+  }
+  
