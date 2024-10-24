@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj": {}
+    "c:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj": {
+    "c:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj",
+        "projectUniqueName": "c:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj",
         "projectName": "Twitter",
-        "projectPath": "C:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj",
+        "projectPath": "c:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj",
         "packagesPath": "C:\\Users\\rosha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rosha\\twitter\\Twitter\\Twitter\\obj\\",
+        "outputPath": "c:\\Users\\rosha\\twitter\\Twitter\\Twitter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rosha\\AppData\\Roaming\\NuGet\\NuGet.Config",
