@@ -34,7 +34,7 @@ Clone the Repository:
 
 If you have the project code in a Git repository, clone it to your local machine using a Git client or command line:
 Bash
-git clone [https://your-repository-url.git](https://github.com/Iman-khayat/Twitter) 
+git clone [(https://github.com/Iman-khayat/Twitter) ](https://github.com/Iman-khayat/Twitter)
 
 Open the Project in Your IDE:
 
