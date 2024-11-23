@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mFJbdY2MHT0HDdf/Dr8r8eGGymoaTnqojTP52ZKK86YRr+nugnWkNHsTP1m0oKbMJpc4GWt7d9C8jsoTI6ZetA==",
+  "dgSpecHash": "jhtsdiDX8qiraaKgRQGR5aPWtp3kAv0n8l75ZclTdwhalnJlh5zWrsaKrVXEUI2M25pOFKzsy/2uvofxONrtzQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj",
+  "projectFilePath": "C:\\Users\\rosha\\twitter\\Twitter\\Twitter\\Twitter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rosha\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\rosha\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
