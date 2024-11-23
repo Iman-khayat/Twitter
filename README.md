@@ -11,3 +11,11 @@ CREATE TABLE Users (
     LastName NVARCHAR(50),
     CreatedDate DATETIME DEFAULT GETDATE()
 );
+
+CREATE TABLE Posts (
+    PostId INT IDENTITY(1,1) PRIMARY KEY,
+    UserId INT NOT NULL,
+    Content NVARCHAR(MAX) NOT NULL,
+    CreatedAt DATETIME DEFAULT GETDATE(),
+    FOREIGN KEY (UserId) REFERENCES Users(UserId)
+);
