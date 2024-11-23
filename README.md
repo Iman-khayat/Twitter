@@ -25,35 +25,43 @@ Running a C# ASP.NET Core Web API Project: A Step-by-Step Guide
 
 Prerequisites:
 .NET SDK: Ensure you have the .NET SDK installed. You can download it from the official Microsoft website.
+
 IDE: Choose an IDE like Visual Studio, Visual Studio Code, or a text editor of your choice.
+
 Steps to Run the Project:
+
 Clone the Repository:
 
 If you have the project code in a Git repository, clone it to your local machine using a Git client or command line:
 Bash
-git clone https://your-repository-url.git
-يُرجى استخدام الرمز البرمجي بحذر.
+git clone [https://your-repository-url.git](https://github.com/Iman-khayat/Twitter) 
 
 Open the Project in Your IDE:
 
 Open the project folder in your chosen IDE.
+
 Restore NuGet Packages:
 
 Visual Studio: The IDE will automatically restore the required NuGet packages.
+
 Command Line: Navigate to the project directory and run the following command:
 Bash
 dotnet restore
-يُرجى استخدام الرمز البرمجي بحذر.
+ 
 
 Run the Project:
 
 Visual Studio:
+
 Right-click on the project in the Solution Explorer and select "Run" or press F5.
+
 Command Line:
+
 Navigate to the project directory and run:
+
 Bash
 dotnet run
-يُرجى استخدام الرمز البرمجي بحذر.
+ 
 
 Understanding the Output:
 Development Environment:
