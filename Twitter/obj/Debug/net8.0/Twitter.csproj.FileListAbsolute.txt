@@ -16,3 +16,8 @@ c:\Users\rosha\twitter\Twitter\Twitter\obj\Debug\net8.0\Twitter.csproj.Up2Date
 C:\Users\rosha\twitter\Twitter\Twitter\bin\Debug\net8.0\Twitter.deps.json
 C:\Users\rosha\twitter\Twitter\Twitter\bin\Debug\net8.0\Twitter.runtimeconfig.json
 C:\Users\rosha\twitter\Twitter\Twitter\obj\Debug\net8.0\Twitter.genruntimeconfig.cache
+C:\Users\rosha\twitter\Twitter\Twitter\obj\Debug\net8.0\Twitter.csproj.AssemblyReference.cache
+C:\Users\rosha\twitter\Twitter\Twitter\obj\Debug\net8.0\Twitter.csproj.CoreCompileInputs.cache
+C:\Users\rosha\twitter\Twitter\Twitter\obj\Debug\net8.0\Twitter.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rosha\twitter\Twitter\Twitter\obj\Debug\net8.0\Twitter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosha\twitter\Twitter\Twitter\obj\Debug\net8.0\Twitter.sourcelink.json
